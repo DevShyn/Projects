@@ -3,7 +3,6 @@
 Update <->
 Just Added Chess Game Made in VB .Net
 
-Update <->
 
 
 READ <->
