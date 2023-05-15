@@ -1,0 +1,15 @@
+C:\Users\brixo\source\repos\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\brixo\source\repos\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\brixo\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\brixo\source\repos\Chess\Chess\bin\Debug\Chess.xml
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.vbproj.AssemblyReference.cache
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.vbproj.SuggestedBindingRedirects.cache
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.Resources.resources
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.vbproj.GenerateResource.cache
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.vbproj.CoreCompileInputs.cache
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.xml
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Interop.WMPLib.dll
+C:\Users\brixo\source\repos\Chess\Chess\obj\Debug\Chess.vbproj.ResolveComReference.cache
