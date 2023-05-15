@@ -7,5 +7,4 @@ Update <->
 
 
 READ <->
-  Here you'll find my random projects, feel free to use it for your own :)
-  
+Here you'll find my random projects, feel free to use it for your own :)
