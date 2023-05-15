@@ -1,0 +1,9 @@
+Chess Instructions :)
+
+To play the game, first enter your names on the textboxes (Make Sure To Press Enter After Doing So) then the pieces should load up the board and you might get an error since the music can't be loaded up.
+To fix this, delete this pieces of code
+
+player.URL = "C:User.."
+
+Finally, the game should work as it is. It's really a normal game of chess so you should know how to play. There might still be errors in the game especially en passant (on black pieces) and castling so please keep that in mind :).
+Yeah, that's about it.
